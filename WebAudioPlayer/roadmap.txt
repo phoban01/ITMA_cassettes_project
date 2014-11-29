@@ -1,0 +1,12 @@
+1. get waveform.js working
+	use two waveforms layered, advance top one to shown playback
+
+2. then make waveform data for each cassette put in assets folder
+
+//
+
+3. stage two is to improve the waveform display and add a timeline and region display etc...
+		for now just get it working
+
+
+

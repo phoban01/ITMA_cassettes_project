@@ -1,0 +1,3004 @@
+(lp0
+S'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/0-99/89-CS'
+p1
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/0-99/92-CS'
+p2
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/1000-1099/1010-CS'
+p3
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/1100-1199/1153-CS'
+p4
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/1100-1199/1154-CS'
+p5
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/1100-1199/1156-CS'
+p6
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/1100-1199/1157-CS'
+p7
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/1100-1199/1158-CS'
+p8
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/1100-1199/1159-CS'
+p9
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/1100-1199/1161-CS'
+p10
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/1100-1199/1162-CS'
+p11
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/1100-1199/1166-CS'
+p12
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/1100-1199/1167-CS'
+p13
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/1100-1199/1171-CS'
+p14
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/1400-1499/1456-CS'
+p15
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/1400-1499/1460-CS'
+p16
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/1600-1699/1651-CS'
+p17
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/1800-1899/1897-CS'
+p18
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/2500-2599/2542-CS'
+p19
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/2600-2699/2646-CS'
+p20
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/2600-2699/2647-CS'
+p21
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/2700-2799/2760-CS'
+p22
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4400-4499/4474-CS'
+p23
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4400-4499/4475-CS'
+p24
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4400-4499/4476-CS'
+p25
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4400-4499/4477-CS'
+p26
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4400-4499/4478-CS'
+p27
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4400-4499/4480-CS'
+p28
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4400-4499/4482-CS'
+p29
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4400-4499/4484-CS'
+p30
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4400-4499/4485-CS'
+p31
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4400-4499/4486-CS'
+p32
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4400-4499/4487-CS'
+p33
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4400-4499/4488-CS'
+p34
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4400-4499/4490-CS'
+p35
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4400-4499/4491-CS'
+p36
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4400-4499/4492-CS'
+p37
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4400-4499/4493-CS'
+p38
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4400-4499/4494-CS'
+p39
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4400-4499/4495-CS'
+p40
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4400-4499/4497-CS'
+p41
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4400-4499/4498-CS'
+p42
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4400-4499/4499-CS'
+p43
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4500-4599/4500-CS'
+p44
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4500-4599/4501-CS'
+p45
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4500-4599/4502-CS'
+p46
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4500-4599/4503-CS'
+p47
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4500-4599/4504-CS'
+p48
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4500-4599/4505-CS'
+p49
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4500-4599/4506-CS'
+p50
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4500-4599/4509-CS'
+p51
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4500-4599/4510-CS'
+p52
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4500-4599/4511-CS'
+p53
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4500-4599/4512-CS'
+p54
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4500-4599/4514-CS'
+p55
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4500-4599/4515-CS'
+p56
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4500-4599/4517-CS'
+p57
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4500-4599/4518-CS'
+p58
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4500-4599/4520-CS'
+p59
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4500-4599/4521-CS'
+p60
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4500-4599/4523-CS'
+p61
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4500-4599/4525-CS'
+p62
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4500-4599/4527-CS'
+p63
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4500-4599/4529-CS'
+p64
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4500-4599/4530-CS'
+p65
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4500-4599/4531-CS'
+p66
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4500-4599/4532-CS'
+p67
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4500-4599/4533-CS'
+p68
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4500-4599/4536-CS'
+p69
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4500-4599/4537-CS'
+p70
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4500-4599/4540-CS'
+p71
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4500-4599/4542-CS'
+p72
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4500-4599/4543-CS'
+p73
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4500-4599/4544-CS'
+p74
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4500-4599/4581-CS'
+p75
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4500-4599/4582-CS'
+p76
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4500-4599/4583-CS'
+p77
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4500-4599/4585-CS'
+p78
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4500-4599/4587-CS'
+p79
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4500-4599/4588-CS'
+p80
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4500-4599/4589-CS'
+p81
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4500-4599/4590-CS'
+p82
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4500-4599/4591-CS'
+p83
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4500-4599/4592-CS'
+p84
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4500-4599/4593-CS'
+p85
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4600-4699/4605-CS'
+p86
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4600-4699/4606-CS'
+p87
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4600-4699/4607-CS'
+p88
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4600-4699/4608-CS'
+p89
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4600-4699/4609-CS'
+p90
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4600-4699/4610-CS'
+p91
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4600-4699/4611-CS'
+p92
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4600-4699/4612-CS'
+p93
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4600-4699/4614-CS'
+p94
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4600-4699/4615-CS'
+p95
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4600-4699/4617-CS'
+p96
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4600-4699/4618-CS'
+p97
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4600-4699/4619-CS'
+p98
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4600-4699/4621-CS'
+p99
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4600-4699/4622-CS'
+p100
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4600-4699/4623-CS'
+p101
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4600-4699/4624-CS'
+p102
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4600-4699/4625-CS'
+p103
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4600-4699/4629-CS'
+p104
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4600-4699/4630-CS'
+p105
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4600-4699/4652-CS'
+p106
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4600-4699/4653-CS'
+p107
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4600-4699/4654-CS'
+p108
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4600-4699/4655-CS'
+p109
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4600-4699/4656-CS'
+p110
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4600-4699/4657-CS'
+p111
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4600-4699/4660-CS'
+p112
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4600-4699/4661-CS'
+p113
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4600-4699/4662-CS'
+p114
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4600-4699/4663-CS'
+p115
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4600-4699/4665-CS'
+p116
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4600-4699/4666-CS'
+p117
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4600-4699/4667-CS'
+p118
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4600-4699/4668-CS'
+p119
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4600-4699/4669-CS'
+p120
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4600-4699/4672-CS'
+p121
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4600-4699/4674-CS'
+p122
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4600-4699/4675-CS'
+p123
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4600-4699/4677-CS'
+p124
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4600-4699/4678-CS'
+p125
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4600-4699/4684-CS'
+p126
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4600-4699/4685-CS'
+p127
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4600-4699/4686-CS'
+p128
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4600-4699/4689-CS'
+p129
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4600-4699/4692-CS'
+p130
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4600-4699/4696-CS'
+p131
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4700-4799/4702-CS'
+p132
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4700-4799/4703-CS'
+p133
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4700-4799/4706-CS'
+p134
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4700-4799/4707-CS'
+p135
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4700-4799/4708-CS'
+p136
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4700-4799/4709-CS'
+p137
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4700-4799/4712-CS'
+p138
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4700-4799/4713-CS'
+p139
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4700-4799/4714-CS'
+p140
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4700-4799/4715-CS'
+p141
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4700-4799/4716-CS'
+p142
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4700-4799/4718-CS'
+p143
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4700-4799/4723-CS'
+p144
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4700-4799/4724-CS'
+p145
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4700-4799/4725-CS'
+p146
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4700-4799/4726-CS'
+p147
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4700-4799/4728-CS'
+p148
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4700-4799/4730-CS'
+p149
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4700-4799/4733-CS'
+p150
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4700-4799/4734-CS'
+p151
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4700-4799/4736-CS'
+p152
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4700-4799/4737-CS'
+p153
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4700-4799/4738-CS'
+p154
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4700-4799/4739-CS'
+p155
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4700-4799/4740-CS'
+p156
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4700-4799/4748-CS'
+p157
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4700-4799/4749-CS'
+p158
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4700-4799/4750-CS'
+p159
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4700-4799/4751-CS'
+p160
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4700-4799/4752-CS'
+p161
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4700-4799/4753-CS'
+p162
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4700-4799/4754-CS'
+p163
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4700-4799/4755-CS'
+p164
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4700-4799/4756-CS'
+p165
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4700-4799/4757-CS'
+p166
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4700-4799/4758-CS'
+p167
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4700-4799/4761-CS'
+p168
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4700-4799/4762-CS'
+p169
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4700-4799/4763-CS'
+p170
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4700-4799/4765-CS'
+p171
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4700-4799/4767-CS'
+p172
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4700-4799/4768-CS'
+p173
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4700-4799/4769-CS'
+p174
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4700-4799/4770-CS'
+p175
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4700-4799/4784-CS'
+p176
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4700-4799/4785-CS'
+p177
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4700-4799/4786-CS'
+p178
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4700-4799/4787-CS'
+p179
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4700-4799/4788-CS'
+p180
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4700-4799/4791-CS'
+p181
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4700-4799/4792-CS'
+p182
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4700-4799/4793-CS'
+p183
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4700-4799/4794-CS'
+p184
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4700-4799/4796-CS'
+p185
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4700-4799/4798-CS'
+p186
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4700-4799/4799-CS'
+p187
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4800-4899/4800-CS'
+p188
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4800-4899/4801-CS'
+p189
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4800-4899/4802-CS'
+p190
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4800-4899/4803-CS'
+p191
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4800-4899/4804-CS'
+p192
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4800-4899/4805-CS'
+p193
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4800-4899/4806-CS'
+p194
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4800-4899/4807-CS'
+p195
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4800-4899/4808-CS'
+p196
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4800-4899/4809-CS'
+p197
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4800-4899/4810-CS'
+p198
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4800-4899/4811-CS'
+p199
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4800-4899/4812-CS'
+p200
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4800-4899/4813-CS'
+p201
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4800-4899/4814-CS'
+p202
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4800-4899/4815-CS'
+p203
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4800-4899/4816-CS'
+p204
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4800-4899/4817-CS'
+p205
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4800-4899/4818-CS'
+p206
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4800-4899/4819-CS'
+p207
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4800-4899/4821-CS'
+p208
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4800-4899/4826-CS'
+p209
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4800-4899/4827-CS'
+p210
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4800-4899/4872-CS'
+p211
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4800-4899/4873-CS'
+p212
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4800-4899/4874-CS'
+p213
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4800-4899/4876-CS'
+p214
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4800-4899/4877-CS'
+p215
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4800-4899/4878-CS'
+p216
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4800-4899/4879-CS'
+p217
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4800-4899/4880-CS'
+p218
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4800-4899/4881-CS'
+p219
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4800-4899/4882-CS'
+p220
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4800-4899/4883-CS'
+p221
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4800-4899/4884-CS'
+p222
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4800-4899/4885-CS'
+p223
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4800-4899/4886-CS'
+p224
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4800-4899/4887-CS'
+p225
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4800-4899/4888-CS'
+p226
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4900-4999/4902-CS'
+p227
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4900-4999/4903-CS'
+p228
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4900-4999/4904-CS'
+p229
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4900-4999/4905-CS'
+p230
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4900-4999/4906-CS'
+p231
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4900-4999/4907-CS'
+p232
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4900-4999/4908-CS'
+p233
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4900-4999/4909-CS'
+p234
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4900-4999/4911-CS'
+p235
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4900-4999/4912-CS'
+p236
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4900-4999/4913-CS'
+p237
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4900-4999/4914-CS'
+p238
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4900-4999/4915-CS'
+p239
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4900-4999/4916-CS'
+p240
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4900-4999/4917-CS'
+p241
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4900-4999/4919-CS'
+p242
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4900-4999/4920-CS'
+p243
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4900-4999/4929-CS'
+p244
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4900-4999/4934-CS'
+p245
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4900-4999/4935-CS'
+p246
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4900-4999/4936-CS'
+p247
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4900-4999/4937-CS'
+p248
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4900-4999/4938-CS'
+p249
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4900-4999/4939-CS'
+p250
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4900-4999/4940-CS'
+p251
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4900-4999/4945-CS'
+p252
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4900-4999/4946-CS'
+p253
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4900-4999/4947-CS'
+p254
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4900-4999/4948-CS'
+p255
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4900-4999/4949-CS'
+p256
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4900-4999/4951-CS'
+p257
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4900-4999/4952-CS'
+p258
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4900-4999/4953-CS'
+p259
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4900-4999/4954-CS'
+p260
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4900-4999/4955-CS'
+p261
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4900-4999/4958-CS'
+p262
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4900-4999/4959-CS'
+p263
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4900-4999/4960-CS'
+p264
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4900-4999/4961-CS'
+p265
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4900-4999/4962-CS'
+p266
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4900-4999/4963-CS'
+p267
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4900-4999/4964-CS'
+p268
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4900-4999/4966-CS'
+p269
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4900-4999/4967-CS'
+p270
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4900-4999/4969-CS'
+p271
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4900-4999/4970-CS'
+p272
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4900-4999/4971-CS'
+p273
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4900-4999/4972-CS'
+p274
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4900-4999/4973-CS'
+p275
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4900-4999/4974-CS'
+p276
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4900-4999/4977-CS'
+p277
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4900-4999/4978-CS'
+p278
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4900-4999/4979-CS'
+p279
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4900-4999/4985-CS'
+p280
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4900-4999/4986-CS'
+p281
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4900-4999/4987-CS'
+p282
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4900-4999/4990-CS'
+p283
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/4900-4999/4993-CS'
+p284
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5000-5099/5013-CS'
+p285
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5000-5099/5014-CS'
+p286
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5000-5099/5015-CS'
+p287
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5000-5099/5016-CS'
+p288
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5000-5099/5017-CS'
+p289
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5000-5099/5018-CS'
+p290
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5000-5099/5019-CS'
+p291
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5000-5099/5020-CS'
+p292
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5000-5099/5021-CS'
+p293
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5000-5099/5051-CS'
+p294
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5000-5099/5052-CS'
+p295
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5000-5099/5054-CS'
+p296
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5000-5099/5055-CS'
+p297
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5000-5099/5057-CS'
+p298
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5000-5099/5058-CS'
+p299
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5000-5099/5059-CS'
+p300
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5000-5099/5060-CS'
+p301
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5000-5099/5061-CS'
+p302
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5000-5099/5083-CS'
+p303
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5000-5099/5084-CS'
+p304
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5000-5099/5085-CS'
+p305
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5000-5099/5086-CS'
+p306
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5000-5099/5087-CS'
+p307
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5000-5099/5091-CS'
+p308
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5000-5099/5092-CS'
+p309
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5000-5099/5093-CS'
+p310
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5000-5099/5094-CS'
+p311
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5000-5099/5095-CS'
+p312
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5000-5099/5097-CS'
+p313
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5000-5099/5099-CS'
+p314
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5100-5199/5100-CS'
+p315
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5100-5199/5101-CS'
+p316
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5100-5199/5102-CS'
+p317
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5100-5199/5103-CS'
+p318
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5100-5199/5104-CS'
+p319
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5100-5199/5105-CS'
+p320
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5100-5199/5106-CS'
+p321
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5100-5199/5107-CS'
+p322
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5100-5199/5112-CS'
+p323
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5100-5199/5113-CS'
+p324
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5100-5199/5114-CS'
+p325
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5100-5199/5115-CS'
+p326
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5100-5199/5116-CS'
+p327
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5100-5199/5117-CS'
+p328
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5100-5199/5118-CS'
+p329
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5100-5199/5119-CS'
+p330
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5100-5199/5120-CS'
+p331
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5100-5199/5121-CS'
+p332
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5100-5199/5122-CS'
+p333
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5100-5199/5125-CS'
+p334
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5100-5199/5126-CS'
+p335
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5100-5199/5127-CS'
+p336
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5100-5199/5128-CS'
+p337
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5100-5199/5130-CS'
+p338
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5100-5199/5131-CS'
+p339
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5100-5199/5132-CS'
+p340
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5100-5199/5136-CS'
+p341
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5100-5199/5137-CS'
+p342
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5100-5199/5138-CS'
+p343
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5100-5199/5139-CS'
+p344
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5100-5199/5140-CS'
+p345
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5100-5199/5141-CS'
+p346
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5100-5199/5142-CS'
+p347
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5100-5199/5143-CS'
+p348
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5100-5199/5144-CS'
+p349
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5100-5199/5145-CS'
+p350
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5100-5199/5146-CS'
+p351
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5100-5199/5147-CS'
+p352
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5100-5199/5148-CS'
+p353
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5100-5199/5149-CS'
+p354
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5100-5199/5150-CS'
+p355
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5100-5199/5151-CS'
+p356
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5100-5199/5152-CS'
+p357
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5100-5199/5153-CS'
+p358
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5100-5199/5155-CS'
+p359
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5100-5199/5156-CS'
+p360
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5100-5199/5157-CS'
+p361
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5100-5199/5158-CS'
+p362
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5100-5199/5159-CS'
+p363
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5100-5199/5160-CS'
+p364
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5100-5199/5161-CS'
+p365
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5100-5199/5162-CS'
+p366
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5100-5199/5163-CS'
+p367
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5100-5199/5165-CS'
+p368
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5100-5199/5166-CS'
+p369
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5100-5199/5167-CS'
+p370
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5100-5199/5168-CS'
+p371
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5100-5199/5169-CS'
+p372
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5100-5199/5170-CS'
+p373
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5100-5199/5171-CS'
+p374
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5100-5199/5172-CS'
+p375
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5100-5199/5173-CS'
+p376
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5100-5199/5174-CS'
+p377
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5100-5199/5175-CS'
+p378
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5100-5199/5176-CS'
+p379
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5100-5199/5177-CS'
+p380
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5100-5199/5178-CS'
+p381
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5100-5199/5179-CS'
+p382
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5100-5199/5180-CS'
+p383
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5100-5199/5181-CS'
+p384
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5100-5199/5182-CS'
+p385
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5100-5199/5183-CS'
+p386
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5100-5199/5184-CS'
+p387
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5100-5199/5185-CS'
+p388
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5100-5199/5186-CS'
+p389
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5100-5199/5187-CS'
+p390
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5100-5199/5188-CS'
+p391
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5100-5199/5189-CS'
+p392
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5100-5199/5190-CS'
+p393
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5100-5199/5191-CS'
+p394
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5100-5199/5192-CS'
+p395
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5100-5199/5193-CS'
+p396
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5100-5199/5194-CS'
+p397
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5100-5199/5195-CS'
+p398
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5100-5199/5196-CS'
+p399
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5100-5199/5197-CS'
+p400
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5100-5199/5198-CS'
+p401
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5100-5199/5199-CS'
+p402
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5200-5299/5200-CS'
+p403
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5200-5299/5201-CS'
+p404
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5200-5299/5202-CS'
+p405
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5200-5299/5203-CS'
+p406
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5200-5299/5204-CS'
+p407
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5200-5299/5205-CS'
+p408
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5200-5299/5206-CS'
+p409
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5200-5299/5207-CS'
+p410
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5200-5299/5209-CS'
+p411
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5200-5299/5210-CS'
+p412
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5200-5299/5211-CS'
+p413
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5200-5299/5212-CS'
+p414
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5200-5299/5213-CS'
+p415
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5200-5299/5214-CS'
+p416
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5200-5299/5215-CS'
+p417
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5200-5299/5216-CS'
+p418
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5200-5299/5217-CS'
+p419
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5200-5299/5218-CS'
+p420
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5200-5299/5220-CS'
+p421
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5200-5299/5222-CS'
+p422
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5200-5299/5223-CS'
+p423
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5200-5299/5224-CS'
+p424
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5200-5299/5225-CS'
+p425
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5200-5299/5226-CS'
+p426
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5200-5299/5227-CS'
+p427
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5200-5299/5228-CS'
+p428
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5200-5299/5229-CS'
+p429
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5200-5299/5230-CS'
+p430
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5200-5299/5231-CS'
+p431
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5200-5299/5232-CS'
+p432
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5200-5299/5233-CS'
+p433
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5200-5299/5235-CS'
+p434
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5200-5299/5236-CS'
+p435
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5200-5299/5237-CS'
+p436
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5200-5299/5238-CS'
+p437
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5200-5299/5239-CS'
+p438
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5200-5299/5241-CS'
+p439
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5200-5299/5247-CS'
+p440
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5200-5299/5248-CS'
+p441
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5200-5299/5249-CS'
+p442
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5200-5299/5250-CS'
+p443
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5200-5299/5251-CS'
+p444
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5200-5299/5252-CS'
+p445
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5200-5299/5253-CS'
+p446
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5200-5299/5254-CS'
+p447
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5200-5299/5256-CS'
+p448
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5200-5299/5257-CS'
+p449
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5200-5299/5258-CS'
+p450
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5200-5299/5259-CS'
+p451
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5200-5299/5260-CS'
+p452
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5200-5299/5261-CS'
+p453
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5200-5299/5262-CS'
+p454
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5200-5299/5263-CS'
+p455
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5200-5299/5264-CS'
+p456
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5200-5299/5265-CS'
+p457
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5200-5299/5266-CS'
+p458
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5200-5299/5267-CS'
+p459
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5200-5299/5269-CS'
+p460
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5200-5299/5270-CS'
+p461
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5200-5299/5271-CS'
+p462
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5200-5299/5272-CS'
+p463
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5200-5299/5273-CS'
+p464
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5200-5299/5274-CS'
+p465
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5200-5299/5275-CS'
+p466
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5200-5299/5276-CS'
+p467
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5200-5299/5277-CS'
+p468
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5200-5299/5278-CS'
+p469
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5200-5299/5280-CS'
+p470
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5200-5299/5281-CS'
+p471
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5200-5299/5282-CS'
+p472
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5200-5299/5283-CS'
+p473
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5200-5299/5284-CS'
+p474
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5200-5299/5285-CS'
+p475
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5200-5299/5286-CS'
+p476
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5200-5299/5287-CS'
+p477
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5200-5299/5288-CS'
+p478
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5200-5299/5289-CS'
+p479
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5200-5299/5290-CS'
+p480
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5200-5299/5291-CS'
+p481
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5200-5299/5292-CS'
+p482
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5200-5299/5293-CS'
+p483
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5200-5299/5294-CS'
+p484
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5200-5299/5295-CS'
+p485
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5200-5299/5297-CS'
+p486
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5200-5299/5298-CS'
+p487
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5200-5299/5299-CS'
+p488
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5300-5399/5300-CS'
+p489
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5300-5399/5301-CS'
+p490
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5300-5399/5302-CS'
+p491
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5300-5399/5303-CS'
+p492
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5300-5399/5304-CS'
+p493
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5300-5399/5305-CS'
+p494
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5300-5399/5306-CS'
+p495
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5300-5399/5307-CS'
+p496
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5300-5399/5308-CS'
+p497
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5300-5399/5309-CS'
+p498
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5300-5399/5310-CS'
+p499
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5300-5399/5311-CS'
+p500
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5300-5399/5312-CS'
+p501
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5300-5399/5313-CS'
+p502
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5300-5399/5314-CS'
+p503
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5300-5399/5315-CS'
+p504
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5300-5399/5317-CS'
+p505
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5300-5399/5321-CS'
+p506
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5300-5399/5322-CS'
+p507
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5300-5399/5323-CS'
+p508
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5300-5399/5325-CS'
+p509
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5300-5399/5326-CS'
+p510
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5300-5399/5328-CS'
+p511
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5300-5399/5329-CS'
+p512
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5300-5399/5330-CS'
+p513
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5300-5399/5331-CS'
+p514
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5300-5399/5333-CS'
+p515
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5300-5399/5334-CS'
+p516
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5300-5399/5336-CS'
+p517
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5300-5399/5337-CS'
+p518
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5300-5399/5339-CS'
+p519
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5300-5399/5340-CS'
+p520
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5300-5399/5341-CS'
+p521
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5300-5399/5342-CS'
+p522
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5300-5399/5343-CS'
+p523
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5300-5399/5344-CS'
+p524
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5300-5399/5345-CS'
+p525
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5300-5399/5346-CS'
+p526
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5300-5399/5348-CS'
+p527
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5300-5399/5349-CS'
+p528
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5300-5399/5351-CS'
+p529
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5300-5399/5352-CS'
+p530
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5300-5399/5353-CS'
+p531
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5300-5399/5354-CS'
+p532
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5300-5399/5368-CS'
+p533
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5300-5399/5369-CS'
+p534
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5300-5399/5370-CS'
+p535
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5300-5399/5371-CS'
+p536
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5300-5399/5372-CS'
+p537
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5300-5399/5375-CS'
+p538
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5300-5399/5376-CS'
+p539
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5300-5399/5377-CS'
+p540
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5300-5399/5378-CS'
+p541
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5300-5399/5379-CS'
+p542
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5300-5399/5388-CS'
+p543
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5300-5399/5391-CS'
+p544
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5300-5399/5396-CS'
+p545
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5300-5399/5397-CS'
+p546
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5300-5399/5398-CS'
+p547
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5300-5399/5399-CS'
+p548
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5400-5499/5400-CS'
+p549
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5400-5499/5401-CS'
+p550
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5400-5499/5402-CS'
+p551
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5400-5499/5403-CS'
+p552
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5400-5499/5404-CS'
+p553
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5400-5499/5404-CS/5404-CS'
+p554
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5400-5499/5406-CS'
+p555
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5400-5499/5407-CS'
+p556
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5400-5499/5408-CS'
+p557
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5400-5499/5409-CS'
+p558
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5400-5499/5410-CS'
+p559
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5400-5499/5411-CS'
+p560
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5400-5499/5412-CS'
+p561
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5400-5499/5413-CS'
+p562
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5400-5499/5414-CS'
+p563
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5400-5499/5415-CS'
+p564
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5400-5499/5419-CS'
+p565
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5400-5499/5420-CS'
+p566
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5400-5499/5421-CS'
+p567
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5400-5499/5422-CS'
+p568
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5400-5499/5423-CS'
+p569
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5400-5499/5424-CS'
+p570
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5400-5499/5428-CS'
+p571
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5400-5499/5429-CS'
+p572
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5400-5499/5430-CS'
+p573
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5400-5499/5431-CS'
+p574
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5400-5499/5434-CS'
+p575
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5400-5499/5435-CS'
+p576
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5400-5499/5436-CS'
+p577
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5400-5499/5437-CS'
+p578
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5400-5499/5438-CS'
+p579
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5400-5499/5440-CS'
+p580
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5400-5499/5442-CS'
+p581
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5400-5499/5443-CS'
+p582
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5400-5499/5444-CS'
+p583
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5400-5499/5446-CS'
+p584
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5400-5499/5447-CS'
+p585
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5400-5499/5448-CS'
+p586
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5400-5499/5449-CS'
+p587
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5400-5499/5450-CS'
+p588
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5400-5499/5451-CS'
+p589
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5400-5499/5452-CS'
+p590
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5400-5499/5454-CS'
+p591
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5400-5499/5455-CS'
+p592
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5400-5499/5457-CS'
+p593
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5400-5499/5458-CS'
+p594
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5400-5499/5460-CS'
+p595
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5400-5499/5461-CS'
+p596
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5400-5499/5464-CS'
+p597
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5400-5499/5469-CS'
+p598
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5400-5499/5470-CS'
+p599
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5400-5499/5471-CS'
+p600
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5400-5499/5472-CS'
+p601
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5400-5499/5473-CS'
+p602
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5400-5499/5474-CS'
+p603
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5500-5599/5504-CS'
+p604
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5500-5599/5507-CS'
+p605
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5500-5599/5508-CS'
+p606
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5500-5599/5509-CS'
+p607
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5500-5599/5511-CS'
+p608
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5500-5599/5512-CS'
+p609
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5500-5599/5514-CS'
+p610
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5500-5599/5515-CS'
+p611
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5500-5599/5516-CS'
+p612
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5500-5599/5517-CS'
+p613
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5500-5599/5520-CS'
+p614
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5500-5599/5521-CS'
+p615
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5500-5599/5529-CS'
+p616
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5500-5599/5530-CS'
+p617
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5500-5599/5531-CS'
+p618
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5500-5599/5541-CS'
+p619
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5500-5599/5543-CS'
+p620
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5500-5599/5544-CS'
+p621
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5500-5599/5548-CS'
+p622
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5500-5599/5549-CS'
+p623
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5500-5599/5550-CS'
+p624
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5500-5599/5551-CS'
+p625
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5500-5599/5552-CS'
+p626
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5500-5599/5555-CS'
+p627
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5500-5599/5556-CS'
+p628
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5500-5599/5558-CS'
+p629
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5500-5599/5560-CS'
+p630
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5500-5599/5561-CS'
+p631
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5500-5599/5562-CS'
+p632
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5500-5599/5563-CS'
+p633
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5500-5599/5564-CS'
+p634
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5500-5599/5565-CS'
+p635
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5500-5599/5567-CS'
+p636
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5500-5599/5568-CS'
+p637
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5500-5599/5570-CS'
+p638
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5500-5599/5571-CS'
+p639
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5500-5599/5584-CS'
+p640
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5500-5599/5586-CS'
+p641
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5500-5599/5589-CS'
+p642
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5500-5599/5590-CS'
+p643
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5500-5599/5592-CS'
+p644
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5500-5599/5594-CS'
+p645
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5500-5599/5595-CS'
+p646
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5500-5599/5596-CS'
+p647
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5500-5599/5597-CS'
+p648
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5500-5599/5598-CS'
+p649
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5500-5599/5599-CS'
+p650
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5600-5699/5600-CS'
+p651
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5600-5699/5601-CS'
+p652
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5600-5699/5603-CS'
+p653
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5600-5699/5610-CS'
+p654
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5600-5699/5611-CS'
+p655
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5600-5699/5612-CS'
+p656
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5600-5699/5613-CS'
+p657
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5600-5699/5655-CS'
+p658
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5600-5699/5684-CS'
+p659
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5600-5699/5686-CS'
+p660
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5600-5699/5687-CS'
+p661
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5600-5699/5693-CS'
+p662
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5700-5799/5700-CS'
+p663
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5700-5799/5701-CS'
+p664
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5700-5799/5702-CS'
+p665
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5700-5799/5703-CS'
+p666
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5700-5799/5706-CS'
+p667
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5700-5799/5708-CS'
+p668
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5700-5799/5715-CS'
+p669
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5700-5799/5716-CS'
+p670
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5700-5799/5717-CS'
+p671
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5700-5799/5718-CS'
+p672
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5700-5799/5719-CS'
+p673
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5700-5799/5721-CS'
+p674
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5700-5799/5722-CS'
+p675
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5800-5899/5831-CS'
+p676
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5800-5899/5833-CS'
+p677
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5800-5899/5834-CS'
+p678
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5800-5899/5835-CS'
+p679
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5800-5899/5836-CS'
+p680
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5800-5899/5837-CS'
+p681
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5800-5899/5838-CS'
+p682
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5800-5899/5850-CS'
+p683
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5800-5899/5851-CS'
+p684
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5800-5899/5852-CS'
+p685
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5800-5899/5853-CS'
+p686
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5800-5899/5854-CS'
+p687
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5800-5899/5855-CS'
+p688
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5800-5899/5856-CS'
+p689
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5800-5899/5857-CS'
+p690
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5800-5899/5858-CS'
+p691
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5800-5899/5859-CS'
+p692
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5800-5899/5860-CS'
+p693
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5800-5899/5861-CS'
+p694
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5800-5899/5862-CS'
+p695
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5800-5899/5863-CS'
+p696
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5800-5899/5865-CS'
+p697
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5800-5899/5866-CS'
+p698
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5800-5899/5867-CS'
+p699
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5800-5899/5868-CS'
+p700
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5800-5899/5869-CS'
+p701
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5800-5899/5870-CS'
+p702
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5800-5899/5871-CS'
+p703
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5800-5899/5872-CS'
+p704
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5800-5899/5873-CS'
+p705
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5800-5899/5874-CS'
+p706
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5800-5899/5875-CS'
+p707
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5800-5899/5876-CS'
+p708
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5800-5899/5877-CS'
+p709
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5800-5899/5878-CS'
+p710
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5800-5899/5880-CS'
+p711
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5800-5899/5881-CS'
+p712
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5800-5899/5882-CS'
+p713
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5800-5899/5883-CS'
+p714
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5800-5899/5886-CS'
+p715
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5800-5899/5887-CS'
+p716
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5800-5899/5893-CS'
+p717
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5900-5999/5905-CS'
+p718
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5900-5999/5906-CS'
+p719
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5900-5999/5907-CS'
+p720
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5900-5999/5908-CS'
+p721
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5900-5999/5909-CS'
+p722
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5900-5999/5911-CS'
+p723
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5900-5999/5912-CS'
+p724
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5900-5999/5913-CS'
+p725
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5900-5999/5915-CS'
+p726
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5900-5999/5916-CS'
+p727
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5900-5999/5919-CS'
+p728
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5900-5999/5920-CS'
+p729
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5900-5999/5921-CS'
+p730
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5900-5999/5924-CS'
+p731
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5900-5999/5924-CS/5924-CS'
+p732
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5900-5999/5926-CS'
+p733
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5900-5999/5927-CS'
+p734
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5900-5999/5928-CS'
+p735
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5900-5999/5929-CS'
+p736
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5900-5999/5930-CS'
+p737
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5900-5999/5932-CS'
+p738
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5900-5999/5933-CS'
+p739
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5900-5999/5934-CS'
+p740
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5900-5999/5935-CS'
+p741
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5900-5999/5936-CS'
+p742
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5900-5999/5937-CS'
+p743
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5900-5999/5938-CS'
+p744
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5900-5999/5940-CS'
+p745
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5900-5999/5941-CS'
+p746
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5900-5999/5942-CS'
+p747
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5900-5999/5945-CS'
+p748
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5900-5999/5946-CS'
+p749
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5900-5999/5947-CS'
+p750
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5900-5999/5949-CS'
+p751
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5900-5999/5950-CS'
+p752
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5900-5999/5951-CS'
+p753
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5900-5999/5952-CS'
+p754
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5900-5999/5953-CS'
+p755
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5900-5999/5954-CS'
+p756
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5900-5999/5955-CS'
+p757
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5900-5999/5956-CS'
+p758
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5900-5999/5957-CS'
+p759
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5900-5999/5958-CS'
+p760
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5900-5999/5959-CS'
+p761
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5900-5999/5960-CS'
+p762
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5900-5999/5961-CS'
+p763
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5900-5999/5962-CS'
+p764
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5900-5999/5963-CS'
+p765
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5900-5999/5964-CS'
+p766
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5900-5999/5965-CS'
+p767
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5900-5999/5966-CS'
+p768
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5900-5999/5981-CS'
+p769
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5900-5999/5982-CS'
+p770
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5900-5999/5983-CS'
+p771
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5900-5999/5986-CS'
+p772
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5900-5999/5987-CS'
+p773
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5900-5999/5988-CS'
+p774
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5900-5999/5989-CS'
+p775
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5900-5999/5990-CS'
+p776
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5900-5999/5991-CS'
+p777
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5900-5999/5993-CS'
+p778
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5900-5999/5994-CS'
+p779
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5900-5999/5995-CS'
+p780
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5900-5999/5996-CS'
+p781
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5900-5999/5997-CS'
+p782
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5900-5999/5998-CS'
+p783
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/5900-5999/5999-CS'
+p784
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6000-6099/6000-CS'
+p785
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6000-6099/6001-CS'
+p786
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6000-6099/6008-CS'
+p787
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6000-6099/6009-CS'
+p788
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6000-6099/6010-CS'
+p789
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6000-6099/6015-CS'
+p790
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6000-6099/6016-CS'
+p791
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6000-6099/6020-CS'
+p792
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6000-6099/6021-CS'
+p793
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6000-6099/6022-CS'
+p794
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6000-6099/6023-CS'
+p795
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6000-6099/6024-CS'
+p796
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6000-6099/6025-CS'
+p797
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6000-6099/6026-CS'
+p798
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6000-6099/6027-CS'
+p799
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6000-6099/6028-CS'
+p800
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6000-6099/6029-CS'
+p801
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6000-6099/6030-CS'
+p802
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6000-6099/6031-CS'
+p803
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6000-6099/6032-CS'
+p804
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6000-6099/6033-CS'
+p805
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6000-6099/6034-CS'
+p806
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6000-6099/6035-CS'
+p807
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6000-6099/6037-CS'
+p808
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6000-6099/6038-CS'
+p809
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6000-6099/6039-CS'
+p810
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6000-6099/6042-CS'
+p811
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6000-6099/6043-CS'
+p812
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6000-6099/6044-CS'
+p813
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6000-6099/6045-CS'
+p814
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6000-6099/6047-CS'
+p815
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6000-6099/6049-CS'
+p816
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6000-6099/6050-CS'
+p817
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6000-6099/6051-CS'
+p818
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6000-6099/6052-CS'
+p819
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6000-6099/6053-CS'
+p820
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6000-6099/6054-CS'
+p821
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6000-6099/6055-CS'
+p822
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6000-6099/6057-CS'
+p823
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6000-6099/6058-CS'
+p824
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6000-6099/6061-CS'
+p825
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6000-6099/6063-CS'
+p826
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6000-6099/6065-CS'
+p827
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6000-6099/6066-CS'
+p828
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6000-6099/6067-CS'
+p829
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6000-6099/6069-CS'
+p830
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6000-6099/6071-CS'
+p831
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6000-6099/6072-CS'
+p832
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6000-6099/6074-CS'
+p833
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6000-6099/6075-CS'
+p834
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6000-6099/6075-CS/6075-CS'
+p835
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6000-6099/6078-CS'
+p836
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6000-6099/6079-CS'
+p837
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6000-6099/6080-CS'
+p838
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6000-6099/6081-CS'
+p839
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6000-6099/6082-CS'
+p840
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6000-6099/6083-CS'
+p841
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6100-6199/6115-CS'
+p842
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6100-6199/6116-CS'
+p843
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6100-6199/6117-CS'
+p844
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6100-6199/6118-CS'
+p845
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6100-6199/6119-CS'
+p846
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6100-6199/6120-CS'
+p847
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6100-6199/6121-CS'
+p848
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6100-6199/6122-CS'
+p849
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6100-6199/6123-CS'
+p850
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6100-6199/6124-CS'
+p851
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6100-6199/6125-CS'
+p852
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6100-6199/6126-CS'
+p853
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6100-6199/6127-CS'
+p854
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6100-6199/6128-CS'
+p855
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6100-6199/6129-CS'
+p856
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6100-6199/6130-CS'
+p857
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6100-6199/6131-CS'
+p858
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6100-6199/6132-CS'
+p859
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6100-6199/6133-CS'
+p860
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6100-6199/6134-CS'
+p861
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6100-6199/6135-CS'
+p862
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6100-6199/6136-CS'
+p863
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6100-6199/6137-CS'
+p864
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6100-6199/6138-CS'
+p865
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6100-6199/6139-CS'
+p866
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6100-6199/6140-CS'
+p867
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6100-6199/6141-CS'
+p868
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6100-6199/6141-CS/6141-CS'
+p869
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6100-6199/6142-CS'
+p870
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6100-6199/6144-CS'
+p871
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6100-6199/6145-CS'
+p872
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6100-6199/6146-CS'
+p873
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6100-6199/6147-CS'
+p874
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6100-6199/6148-CS'
+p875
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6100-6199/6150-CS'
+p876
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6100-6199/6151-CS'
+p877
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6100-6199/6152-CS'
+p878
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6100-6199/6153-CS'
+p879
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6100-6199/6154-CS'
+p880
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6100-6199/6155-CS'
+p881
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6100-6199/6156-CS'
+p882
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6100-6199/6157-CS'
+p883
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6100-6199/6158-CS'
+p884
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6100-6199/6159-CS'
+p885
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6100-6199/6160-CS'
+p886
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6100-6199/6161-CS'
+p887
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6100-6199/6162-CS'
+p888
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6100-6199/6163-CS'
+p889
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6100-6199/6164-CS'
+p890
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6100-6199/6186-CS'
+p891
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6100-6199/6187-CS'
+p892
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6100-6199/6188-CS'
+p893
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6100-6199/6189-CS'
+p894
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6100-6199/6190-CS'
+p895
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6100-6199/6191-CS'
+p896
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6100-6199/6192-CS'
+p897
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6100-6199/6193-CS'
+p898
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6100-6199/6194-CS'
+p899
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6100-6199/6195-CS'
+p900
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6100-6199/6198-CS'
+p901
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6100-6199/6199-CS'
+p902
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6200-6299/6200-CS'
+p903
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6200-6299/6201-CS'
+p904
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6200-6299/6202-CS'
+p905
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6200-6299/6203-CS'
+p906
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6200-6299/6204-CS'
+p907
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6200-6299/6206-CS'
+p908
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6200-6299/6207-CS'
+p909
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6200-6299/6208-CS'
+p910
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6200-6299/6210-CS'
+p911
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6200-6299/6211-CS'
+p912
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6200-6299/6212-CS'
+p913
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6200-6299/6213-CS'
+p914
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6200-6299/6214-CS'
+p915
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6200-6299/6215-CS'
+p916
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6200-6299/6216-CS'
+p917
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6200-6299/6218-CS'
+p918
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6200-6299/6219-CS'
+p919
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6200-6299/6220-CS'
+p920
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6200-6299/6221-CS'
+p921
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6200-6299/6222-CS'
+p922
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6200-6299/6223-CS'
+p923
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6200-6299/6224-CS'
+p924
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6200-6299/6225-CS'
+p925
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6200-6299/6226-CS'
+p926
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6200-6299/6227-CS'
+p927
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6200-6299/6228-CS'
+p928
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6200-6299/6229-CS'
+p929
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6200-6299/6230-CS'
+p930
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6200-6299/6231-CS'
+p931
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6200-6299/6246-CS'
+p932
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6200-6299/6267-CS'
+p933
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6200-6299/6268-CS'
+p934
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6300-6399/6314-CS'
+p935
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6300-6399/6318-CS'
+p936
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6300-6399/6369-CS'
+p937
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6300-6399/6371-CS'
+p938
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6300-6399/6373-CS'
+p939
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6400-6499/6419-CS'
+p940
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6400-6499/6420-CS'
+p941
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6400-6499/6421-CS'
+p942
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6400-6499/6422-CS'
+p943
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6400-6499/6423-CS'
+p944
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6400-6499/6424-CS'
+p945
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6400-6499/6425-CS'
+p946
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6400-6499/6426-CS'
+p947
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6400-6499/6427-CS'
+p948
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6400-6499/6461-CS'
+p949
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6400-6499/6462-CS'
+p950
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6400-6499/6464-CS'
+p951
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6400-6499/6465-CS'
+p952
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6400-6499/6466-CS'
+p953
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6400-6499/6490-CS'
+p954
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6400-6499/6494-CS'
+p955
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6400-6499/6497-CS'
+p956
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6500-6599/6500-CS'
+p957
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6500-6599/6504-CS'
+p958
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6500-6599/6505-CS'
+p959
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6500-6599/6506-CS'
+p960
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6500-6599/6507-CS'
+p961
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6500-6599/6508-CS'
+p962
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6500-6599/6510-CS'
+p963
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6600-6699/6657-CS'
+p964
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6600-6699/6661-CS'
+p965
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6600-6699/6664-CS'
+p966
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6600-6699/6667-CS'
+p967
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6600-6699/6669-CS'
+p968
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6600-6699/6670-CS'
+p969
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6600-6699/6673-CS'
+p970
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6600-6699/6677-CS'
+p971
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6600-6699/6678-CS'
+p972
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6600-6699/6679-CS'
+p973
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6600-6699/6680-CS'
+p974
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6600-6699/6681-CS'
+p975
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6600-6699/6682-CS'
+p976
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6600-6699/6683-CS'
+p977
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6700-6799/6716-CS'
+p978
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6700-6799/6717-CS'
+p979
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6700-6799/6734-CS'
+p980
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6700-6799/6735-CS'
+p981
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6800-6899/6817-CS'
+p982
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6800-6899/6818-CS'
+p983
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6800-6899/6819-CS'
+p984
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6800-6899/6892-CS'
+p985
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6800-6899/6893-CS'
+p986
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6900-6999/6932-CS'
+p987
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6900-6999/6933-CS'
+p988
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6900-6999/6934-CS'
+p989
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6900-6999/6935-CS'
+p990
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6900-6999/6938-CS'
+p991
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6900-6999/6991-CS'
+p992
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6900-6999/6992-CS'
+p993
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6900-6999/6993-CS'
+p994
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/6900-6999/6997-CS'
+p995
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/7000-7099/7058-CS'
+p996
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/7000-7099/7059-CS'
+p997
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/7000-7099/7060-CS'
+p998
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/COMMERCIAL TAPES BATCH 13/7061-CS-SIDE ONE.L_data'
+p999
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/7000-7099/7061-CS'
+p1000
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/7000-7099/7062-CS'
+p1001
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/7000-7099/7063-CS'
+p1002
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/7000-7099/7065-CS'
+p1003
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/7000-7099/7066-CS'
+p1004
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/7000-7099/7067-CS'
+p1005
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/7000-7099/7068-CS'
+p1006
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/7000-7099/7069-CS'
+p1007
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/7000-7099/7070-CS'
+p1008
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/7000-7099/7088-CS'
+p1009
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/7000-7099/7091-CS'
+p1010
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/7100-7199/7132-CS'
+p1011
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/7100-7199/7134-CS'
+p1012
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/7100-7199/7135-CS'
+p1013
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/7100-7199/7136-CS'
+p1014
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/7100-7199/7137-CS'
+p1015
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/7100-7199/7172-CS'
+p1016
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/7300-7399/7324-CS'
+p1017
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/7300-7399/7325-CS'
+p1018
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/7300-7399/7326-CS'
+p1019
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/7300-7399/7327-CS'
+p1020
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/7300-7399/7328-CS'
+p1021
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/7300-7399/7329-CS'
+p1022
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/7300-7399/7330-CS'
+p1023
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/7300-7399/7331-CS'
+p1024
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/7300-7399/7335-CS'
+p1025
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/7300-7399/7344-CS'
+p1026
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/7300-7399/7346-CS'
+p1027
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/7300-7399/7347-CS'
+p1028
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/7300-7399/7348-CS'
+p1029
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/7300-7399/7349-CS'
+p1030
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/7300-7399/7350-CS'
+p1031
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/7300-7399/7351-CS'
+p1032
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/7300-7399/7355-CS'
+p1033
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/7300-7399/7373-CS'
+p1034
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/7300-7399/7374-CS'
+p1035
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/7300-7399/7375-CS'
+p1036
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/7300-7399/7376-CS'
+p1037
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/7300-7399/7379-CS'
+p1038
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/7300-7399/7380-CS'
+p1039
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/7300-7399/7381-CS'
+p1040
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/7300-7399/7382-CS'
+p1041
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/7400-7499/7445-CS'
+p1042
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/7400-7499/7446-CS'
+p1043
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/7500-7599/7505-CS'
+p1044
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/7500-7599/7528-CS'
+p1045
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/7500-7599/7570-CS'
+p1046
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/7500-7599/7571-CS'
+p1047
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/7500-7599/7572-CS'
+p1048
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/7500-7599/7583-CS'
+p1049
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/7500-7599/7584-CS'
+p1050
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/7500-7599/7585-CS'
+p1051
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/7500-7599/7586-CS'
+p1052
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/7500-7599/7588-CS'
+p1053
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/7500-7599/7589-CS'
+p1054
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/7500-7599/7590-CS'
+p1055
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/7500-7599/7592-CS'
+p1056
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/7500-7599/7593-CS'
+p1057
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/7500-7599/7594-CS'
+p1058
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/7500-7599/7596-CS'
+p1059
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/7600-7699/7600-CS'
+p1060
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/7600-7699/7602-CS'
+p1061
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/7600-7699/7603-CS'
+p1062
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/7600-7699/7660-CS'
+p1063
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/7600-7699/7674-CS'
+p1064
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/7600-7699/7675-CS'
+p1065
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/7600-7699/7676-CS'
+p1066
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/7600-7699/7677-CS'
+p1067
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/7600-7699/7679-CS'
+p1068
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/7800-7899/7840-CS'
+p1069
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/7800-7899/7841-CS'
+p1070
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/7800-7899/7842-CS'
+p1071
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/7800-7899/7843-CS'
+p1072
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/7800-7899/7844-CS'
+p1073
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/7800-7899/7845-CS'
+p1074
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/7800-7899/7846-CS'
+p1075
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/7800-7899/7847-CS'
+p1076
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/7800-7899/7848-CS'
+p1077
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/7800-7899/7849-CS'
+p1078
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/7800-7899/7850-CS'
+p1079
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/7800-7899/7851-CS'
+p1080
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/7900-7999/7931-CS'
+p1081
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/7900-7999/7932-CS'
+p1082
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/7900-7999/7933-CS'
+p1083
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/7900-7999/7934-CS'
+p1084
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/7900-7999/7935-CS'
+p1085
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/7900-7999/7936-CS'
+p1086
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/7900-7999/7938-CS'
+p1087
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/7900-7999/7939-CS'
+p1088
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/7900-7999/7941-CS'
+p1089
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/7900-7999/7942-CS'
+p1090
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/7900-7999/7943-CS'
+p1091
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/7900-7999/7943-CS/7943-CS'
+p1092
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/7900-7999/7946-CS'
+p1093
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/7900-7999/7947-CS'
+p1094
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/7900-7999/7948-CS'
+p1095
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/7900-7999/7949-CS'
+p1096
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/8200-8299/8249-CS'
+p1097
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/8200-8299/8250-CS'
+p1098
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/8200-8299/8251-CS'
+p1099
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/8300-8399/8329-CS'
+p1100
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/8300-8399/8339-CS'
+p1101
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/8300-8399/8346-CS'
+p1102
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/8400-8499/8402-CS'
+p1103
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/8400-8499/8403-CS'
+p1104
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/8400-8499/8404-CS'
+p1105
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/8400-8499/8407-CS'
+p1106
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/8400-8499/8455-CS'
+p1107
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/8400-8499/8461-CS'
+p1108
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/8400-8499/8462-CS'
+p1109
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/8500-8599/8526-CS'
+p1110
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/8500-8599/8527-CS'
+p1111
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/8500-8599/8590-CS'
+p1112
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/8500-8599/8591-CS'
+p1113
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/8500-8599/8592-CS'
+p1114
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/8500-8599/8593-CS'
+p1115
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/8500-8599/8594-CS'
+p1116
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/8500-8599/8595-CS'
+p1117
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/8600-8699/8605-CS'
+p1118
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/8600-8699/8617-CS'
+p1119
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/8600-8699/8618-CS'
+p1120
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/8600-8699/8619-CS'
+p1121
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/8600-8699/8620-CS'
+p1122
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/8600-8699/8621-CS'
+p1123
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/8600-8699/8622-CS'
+p1124
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/8600-8699/8623-CS'
+p1125
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/8600-8699/8624-CS'
+p1126
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/8600-8699/8625-CS'
+p1127
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/8600-8699/8626-CS'
+p1128
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/8600-8699/8627-CS'
+p1129
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/8600-8699/8628-CS'
+p1130
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/8600-8699/8650-CS'
+p1131
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/8600-8699/8651-CS'
+p1132
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/8600-8699/8652-CS'
+p1133
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/8600-8699/8658-CS'
+p1134
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/8700-8799/8723-CS'
+p1135
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/8700-8799/8774-CS'
+p1136
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/8800-8899/8871-CS'
+p1137
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/8800-8899/8872-CS'
+p1138
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/8900-8999/8907-CS'
+p1139
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/8900-8999/8966-CS'
+p1140
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/8900-8999/8967-CS'
+p1141
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/8900-8999/8968-CS'
+p1142
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/8900-8999/8971-CS'
+p1143
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/8900-8999/8972-CS'
+p1144
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/8900-8999/8998-CS'
+p1145
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/9000-9099/9000-CS'
+p1146
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/9000-9099/9001-CS'
+p1147
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/9000-9099/9004-CS'
+p1148
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/9000-9099/9077-CS'
+p1149
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/9000-9099/9078-CS'
+p1150
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/9000-9099/9079-CS'
+p1151
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/9000-9099/9080-CS'
+p1152
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/9000-9099/9081-CS'
+p1153
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/9000-9099/9091-CS'
+p1154
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/9100-9199/9147-CS'
+p1155
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/9100-9199/9148-CS'
+p1156
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/9100-9199/9184-CS'
+p1157
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/9100-9199/9187-CS'
+p1158
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/9100-9199/9195-CS'
+p1159
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/9100-9199/9196-CS'
+p1160
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/9100-9199/9197-CS'
+p1161
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/9100-9199/9198-CS'
+p1162
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/9100-9199/9199-CS'
+p1163
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/9200-9299/9215-CS'
+p1164
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/9200-9299/9216-CS'
+p1165
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/9200-9299/9217-CS'
+p1166
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/9200-9299/9270-CS'
+p1167
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/9200-9299/9271-CS'
+p1168
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/9200-9299/9272-CS'
+p1169
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/9200-9299/9283-CS'
+p1170
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/9300-9399/9375-CS'
+p1171
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/9500-9599/9575-CS'
+p1172
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/9500-9599/9578-CS'
+p1173
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/9500-9599/9581-CS'
+p1174
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/9500-9599/9585-CS'
+p1175
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/9500-9599/9586-CS'
+p1176
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/9500-9599/9587-CS'
+p1177
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/9500-9599/9588-CS'
+p1178
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/9500-9599/9589-CS'
+p1179
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/9500-9599/9590-CS'
+p1180
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/9500-9599/9592-CS'
+p1181
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/9500-9599/9594-CS'
+p1182
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/9700-9799/9771-CS'
+p1183
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/9700-9799/9791-CS'
+p1184
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/9800-9899/9804-CS'
+p1185
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/9800-9899/9831-CS'
+p1186
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/9800-9899/9832-CS'
+p1187
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/10000-10099/10070-CS'
+p1188
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/10000-10099/10071-CS'
+p1189
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/10000-10099/10072-CS'
+p1190
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/10000-10099/10073-CS'
+p1191
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/10000-10099/10074-CS'
+p1192
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/10000-10099/10075-CS'
+p1193
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/10000-10099/10076-CS'
+p1194
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/10000-10099/10077-CS'
+p1195
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/10000-10099/10078-CS'
+p1196
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/10000-10099/10079-CS'
+p1197
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/10000-10099/10080-CS'
+p1198
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/10000-10099/10091-CS'
+p1199
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/10000-10099/10092-CS'
+p1200
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/10000-10099/10094-CS'
+p1201
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/10000-10099/10095-CS'
+p1202
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/10000-10099/10096-CS'
+p1203
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/10000-10099/10097-CS'
+p1204
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/10000-10099/10098-CS'
+p1205
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/10100-10199/10129-CS'
+p1206
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/10100-10199/10132-CS'
+p1207
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/10100-10199/10135-CS'
+p1208
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/10100-10199/10136-CS'
+p1209
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/10100-10199/10137-CS'
+p1210
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/10100-10199/10143-CS'
+p1211
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/10100-10199/10144-CS'
+p1212
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/10100-10199/10145-CS'
+p1213
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/10100-10199/10179-CS'
+p1214
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/10200-10299/10279-CS'
+p1215
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/10300-10399/10398-CS'
+p1216
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/10400-10499/10401-CS'
+p1217
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/10400-10499/10402-CS'
+p1218
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/10400-10499/10404-CS'
+p1219
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/10400-10499/10405-CS'
+p1220
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/10600-10699/10681-CS'
+p1221
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/10700-10799/10715-CS'
+p1222
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/10700-10799/10716-CS'
+p1223
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/10700-10799/10717-CS'
+p1224
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/10700-10799/10718-CS'
+p1225
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/10700-10799/10719-CS'
+p1226
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/10900-10999/10927-CS'
+p1227
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/10900-10999/10928-CS'
+p1228
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/10900-10999/10931-CS'
+p1229
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/12200-12299/12222-CS'
+p1230
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/12600-12699/12690-CS'
+p1231
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/12600-12699/12692-CS'
+p1232
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/12800-12899/12845-CS'
+p1233
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/12800-12899/12869-CS'
+p1234
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/12800-12899/12870-CS'
+p1235
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/12800-12899/12871-CS'
+p1236
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/12800-12899/12872-CS'
+p1237
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/12800-12899/12873-CS'
+p1238
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/12800-12899/12874-CS'
+p1239
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/12900-12999/12963-CS'
+p1240
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/12900-12999/12971-CS'
+p1241
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/12900-12999/12972-CS'
+p1242
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/12900-12999/12973-CS'
+p1243
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/12900-12999/12975-CS'
+p1244
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/12900-12999/12976-CS'
+p1245
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/12900-12999/12977-CS'
+p1246
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/12900-12999/12978-CS'
+p1247
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/12900-12999/12979-CS'
+p1248
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/12900-12999/12980-CS'
+p1249
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/12900-12999/12981-CS'
+p1250
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/12900-12999/12984-CS'
+p1251
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/12900-12999/12985-CS'
+p1252
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/12900-12999/12986-CS'
+p1253
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/12900-12999/12987-CS'
+p1254
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/12900-12999/12988-CS'
+p1255
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/12900-12999/12989-CS'
+p1256
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/12900-12999/12990-CS'
+p1257
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/12900-12999/12991-CS'
+p1258
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/12900-12999/12993-CS'
+p1259
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/12900-12999/12994-CS'
+p1260
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/12900-12999/12996-CS'
+p1261
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/12900-12999/12998-CS'
+p1262
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/12900-12999/12999-CS'
+p1263
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/13000-13099/13069-CS'
+p1264
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/13400-13499/13459-CS'
+p1265
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/13400-13499/13460-CS'
+p1266
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/13400-13499/13461-CS'
+p1267
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/13400-13499/13462-CS'
+p1268
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/13400-13499/13463-CS'
+p1269
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/13400-13499/13463-CS/13463-CS'
+p1270
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/13400-13499/13464-CS'
+p1271
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/13400-13499/13465-CS'
+p1272
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/13400-13499/13466-CS'
+p1273
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/13400-13499/13467-CS'
+p1274
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/13400-13499/13469-CS'
+p1275
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/13400-13499/13470-CS'
+p1276
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/13400-13499/13471-CS'
+p1277
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/13400-13499/13472-CS'
+p1278
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/13400-13499/13473-CS'
+p1279
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/13400-13499/13474-CS'
+p1280
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/13400-13499/13475-CS'
+p1281
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/13400-13499/13476-CS'
+p1282
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/13400-13499/13477-CS'
+p1283
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/13400-13499/13478-CS'
+p1284
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/13400-13499/13479-CS'
+p1285
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/13400-13499/13480-CS'
+p1286
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/13400-13499/13481-CS'
+p1287
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/13400-13499/13482-CS'
+p1288
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/13400-13499/13483-CS'
+p1289
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/13400-13499/13484-CS'
+p1290
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/13400-13499/13485-CS'
+p1291
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/13400-13499/13486-CS'
+p1292
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/13400-13499/13487-CS'
+p1293
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/13400-13499/13488-CS'
+p1294
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/13400-13499/13489-CS'
+p1295
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/13400-13499/13490-CS'
+p1296
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/13400-13499/13491-CS'
+p1297
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/13400-13499/13492-CS'
+p1298
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/13400-13499/13493-CS'
+p1299
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/13400-13499/13494-CS'
+p1300
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/13400-13499/13495-CS'
+p1301
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/13400-13499/13496-CS'
+p1302
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/13400-13499/13497-CS'
+p1303
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/13600-13699/13603-CS'
+p1304
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/13600-13699/13606-CS'
+p1305
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/13600-13699/13607-CS'
+p1306
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/13600-13699/13608-CS'
+p1307
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/13600-13699/13609-CS'
+p1308
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/13600-13699/13610-CS'
+p1309
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/13600-13699/13611-CS'
+p1310
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/13600-13699/13612-CS'
+p1311
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/13600-13699/13613-CS'
+p1312
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/13600-13699/13614-CS'
+p1313
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/13600-13699/13617-CS'
+p1314
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/13600-13699/13618-CS'
+p1315
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/13600-13699/13620-CS'
+p1316
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/14400-14499/14444-CS'
+p1317
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/14400-14499/14445-CS'
+p1318
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/14400-14499/14446-CS'
+p1319
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/14400-14499/14447-CS'
+p1320
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/14400-14499/14448-CS'
+p1321
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/14400-14499/14449-CS'
+p1322
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/14400-14499/14450-CS'
+p1323
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/14400-14499/14451-CS'
+p1324
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/14400-14499/14452-CS'
+p1325
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/14400-14499/14453-CS'
+p1326
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/14400-14499/14454-CS'
+p1327
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/14600-14699/14605-CS'
+p1328
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/14600-14699/14606-CS'
+p1329
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/16000-16099/16068-CS'
+p1330
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/16400-16499/16428-CS'
+p1331
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/16400-16499/16474-CS'
+p1332
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/16500-16599/16577-CS'
+p1333
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/16500-16599/16580-CS'
+p1334
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/16500-16599/16581-CS'
+p1335
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/16500-16599/16583-CS'
+p1336
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/16500-16599/16584-CS'
+p1337
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/16500-16599/16586-CS'
+p1338
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/16500-16599/16589-CS'
+p1339
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/17500-17599/17565-CS'
+p1340
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/17500-17599/17571-CS'
+p1341
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/17500-17599/17580-CS'
+p1342
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/17500-17599/17590-CS'
+p1343
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/17500-17599/17596-CS'
+p1344
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/17500-17599/17598-CS'
+p1345
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/17600-17699/17602-CS'
+p1346
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/17600-17699/17605-CS'
+p1347
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/17600-17699/17609-CS'
+p1348
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/17600-17699/17610-CS'
+p1349
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/17600-17699/17612-CS'
+p1350
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/17600-17699/17613-CS'
+p1351
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/17600-17699/17614-CS'
+p1352
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/17600-17699/17615-CS'
+p1353
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/17600-17699/17616-CS'
+p1354
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/17600-17699/17618-CS'
+p1355
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/17600-17699/17619-CS'
+p1356
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/17600-17699/17623-CS'
+p1357
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/17600-17699/17624-CS'
+p1358
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/17600-17699/17625-CS'
+p1359
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/17600-17699/17626-CS'
+p1360
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/17600-17699/17627-CS'
+p1361
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/17600-17699/17632-CS'
+p1362
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/17600-17699/17633-CS'
+p1363
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/17600-17699/17648-CS'
+p1364
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/17600-17699/17650-CS'
+p1365
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/17600-17699/17651-CS'
+p1366
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/17600-17699/17652-CS'
+p1367
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/17600-17699/17655-CS'
+p1368
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/17600-17699/17658-CS'
+p1369
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/17600-17699/17659-CS'
+p1370
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/17600-17699/17661-CS'
+p1371
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/17600-17699/17662-CS'
+p1372
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/17600-17699/17663-CS'
+p1373
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/18500-18599/18575-CS'
+p1374
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/18700-18799/18776-CS'
+p1375
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/18700-18799/18777-CS'
+p1376
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/18700-18799/18778-CS'
+p1377
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/18700-18799/18791-CS'
+p1378
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/18800-18899/18813-CS'
+p1379
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/18800-18899/18814-CS'
+p1380
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/18800-18899/18815-CS'
+p1381
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/18800-18899/18816-CS'
+p1382
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/19000-19099/19010-CS'
+p1383
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/19000-19099/19023-CS'
+p1384
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/19000-19099/19024-CS'
+p1385
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/19000-19099/19025-CS'
+p1386
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/19000-19099/19026-CS'
+p1387
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/19000-19099/19027-CS'
+p1388
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/19000-19099/19031-CS'
+p1389
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/20400-20499/20400-CS'
+p1390
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/20400-20499/20426-CS'
+p1391
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/20600-20699/20645-CS'
+p1392
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/20600-20699/20646-CS'
+p1393
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/20600-20699/20647-CS'
+p1394
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/20600-20699/20648-CS'
+p1395
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/20600-20699/20649-CS'
+p1396
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/20600-20699/20650-CS'
+p1397
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/20600-20699/20651-CS'
+p1398
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/20600-20699/20652-CS'
+p1399
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/20600-20699/20653-CS'
+p1400
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/20600-20699/20654-CS'
+p1401
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/20600-20699/20655-CS'
+p1402
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/20600-20699/20656-CS'
+p1403
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/20600-20699/20657-CS'
+p1404
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/20600-20699/20658-CS'
+p1405
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/20600-20699/20659-CS'
+p1406
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/20600-20699/20660-CS'
+p1407
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/20600-20699/20661-CS'
+p1408
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/20600-20699/20662-CS'
+p1409
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/20600-20699/20663-CS'
+p1410
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/20600-20699/20664-CS'
+p1411
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/20600-20699/20665-CS'
+p1412
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/20600-20699/20666-CS'
+p1413
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/20600-20699/20667-CS'
+p1414
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/20600-20699/20668-CS'
+p1415
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/20600-20699/20669-CS'
+p1416
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/20600-20699/20670-CS'
+p1417
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/20600-20699/20671-CS'
+p1418
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/20600-20699/20672-CS'
+p1419
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/20600-20699/20673-CS'
+p1420
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/20600-20699/20674-CS'
+p1421
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/20600-20699/20675-CS'
+p1422
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/20600-20699/20676-CS'
+p1423
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/20600-20699/20677-CS'
+p1424
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/20600-20699/20678-CS'
+p1425
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/20600-20699/20679-CS'
+p1426
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/20600-20699/20680-CS'
+p1427
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/20600-20699/20682-CS'
+p1428
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/20600-20699/20683-CS'
+p1429
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/20600-20699/20684-CS'
+p1430
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/20600-20699/20685-CS'
+p1431
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/20600-20699/20686-CS'
+p1432
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/20600-20699/20687-CS'
+p1433
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/20600-20699/20688-CS'
+p1434
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/20600-20699/20689-CS'
+p1435
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/20600-20699/20690-CS'
+p1436
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/20600-20699/20691-CS'
+p1437
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/20600-20699/20692-CS'
+p1438
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/20600-20699/20693-CS'
+p1439
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/20600-20699/20694-CS'
+p1440
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/20600-20699/20695-CS'
+p1441
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/20600-20699/20696-CS'
+p1442
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/20600-20699/20697-CS'
+p1443
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/20600-20699/20698-CS'
+p1444
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/20600-20699/20699-CS'
+p1445
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/20700-20799/20700-CS'
+p1446
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/20700-20799/20723-CS'
+p1447
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/21500-21599/21500-CS'
+p1448
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/21500-21599/21501-CS'
+p1449
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/21500-21599/21502-CS'
+p1450
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/21500-21599/21503-CS'
+p1451
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/21500-21599/21504-CS'
+p1452
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/21500-21599/21505-CS'
+p1453
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/21500-21599/21506-CS'
+p1454
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/21500-21599/21507-CS'
+p1455
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/21500-21599/21508-CS'
+p1456
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/21500-21599/21509-CS'
+p1457
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/21500-21599/21510-CS'
+p1458
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/21500-21599/21511-CS'
+p1459
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/21500-21599/21512-CS'
+p1460
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/21500-21599/21513-CS'
+p1461
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/21500-21599/21514-CS'
+p1462
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/21500-21599/21515-CS'
+p1463
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/21500-21599/21516-CS'
+p1464
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/21500-21599/21517-CS'
+p1465
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/21500-21599/21518-CS'
+p1466
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/21500-21599/21519-CS'
+p1467
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/21500-21599/21520-CS'
+p1468
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/21500-21599/21521-CS'
+p1469
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/21500-21599/21522-CS'
+p1470
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/21500-21599/21523-CS'
+p1471
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/21500-21599/21524-CS'
+p1472
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/21500-21599/21525-CS'
+p1473
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/21500-21599/21526-CS'
+p1474
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/21500-21599/21527-CS'
+p1475
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/21500-21599/21528-CS'
+p1476
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/21500-21599/21529-CS'
+p1477
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/21500-21599/21530-CS'
+p1478
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/21500-21599/21531-CS'
+p1479
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/21500-21599/21532-CS'
+p1480
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/21500-21599/21533-CS'
+p1481
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/21500-21599/21535-CS'
+p1482
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/21500-21599/21536-CS'
+p1483
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/21500-21599/21537-CS'
+p1484
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/21500-21599/21538-CS'
+p1485
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/21500-21599/21538-CS/21538-CS'
+p1486
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/21500-21599/21540-CS'
+p1487
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/21500-21599/21541-CS'
+p1488
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/21500-21599/21542-CS'
+p1489
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/21500-21599/21543-CS'
+p1490
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/21500-21599/21544-CS'
+p1491
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/21500-21599/21545-CS'
+p1492
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/21500-21599/21546-CS'
+p1493
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/21500-21599/21547-CS'
+p1494
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/21500-21599/21548-CS'
+p1495
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/21500-21599/21549-CS'
+p1496
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/21500-21599/21550-CS'
+p1497
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/21500-21599/21551-CS'
+p1498
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/21500-21599/21552-CS'
+p1499
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/21500-21599/21553-CS'
+p1500
+aS'/Volumes/ITMADATA/AUDIO/commercial sound recordings/digitised cassettes/21500-21599/21554-CS'
+p1501
+a.
